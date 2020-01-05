@@ -1,11 +1,11 @@
-# [Exercism Python Track](https://exercism.io/my/tracks/csharp)
+# [Exercism C++ Track](https://exercism.io/my/tracks/cpp)
 
 <div align="center"> 
 <img width="10%" height="10%" src="https://github.com/ikostan/Exercism_Python_Track/blob/master/img/exercism-logo.png" hspace="20">
 <img width="10%" height="10%" src="https://github.com/ikostan/Exercism_Csharp_Track/blob/master/img/csharp.png" hspace="20">
 </div>
 
-## Exercism exercises in CSharp
+## Exercism exercises in C++
 
 ### About Exercism
 
