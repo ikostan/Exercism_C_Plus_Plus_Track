@@ -33,6 +33,10 @@ This guide was created in order to help you get started learning with Exercism. 
 
 ### [Configuring the CLI](https://exercism.io/cli-walkthrough)
 
+### Windows with Visual Studio
+
+Visual Studio has native support for CMake projects, so you should not need to install CMake separately or run it outside of Visual Studio. Follow [this guide](https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio) to setup the CMake project in Visual Studio.
+
 ### Download exercise
 
 * You should now have the CLI installed.
